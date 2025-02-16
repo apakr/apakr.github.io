@@ -16,7 +16,7 @@ timezone:
 
 title: Al Pakrosnis # the main title
 
-tagline: A showcase of what I do hey hi hello # it will display as the subtitle
+tagline:  # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   blog, github, linkedin, portfolio, folio, projects
