@@ -8,7 +8,7 @@ order: 4
 {: .prompt-tip } -->
 
 # Who am I
-I am an undergrad at UIC studying Data Science and minoring in Finance.
+I am an undergrad at the University of Illinois Urbana-Champaign studying Statistics and minoring in Computer Science.
 
 Since I was old enough to work I've occupied my time with either some form of employment, intensive school work, or both. 
 
@@ -33,4 +33,4 @@ I am an avid book reader. I've finished nearly the entire Dostoevsky anthology. 
 
 I also really like music and listen to it all the time. For 2024 I had a combined 56,000 minutes listened across just Spotify and Soundcloud. How much did you listen?
 
-Over the past year I've been getting into golf, I'm still pretty bad but man is it fun. I also played club water polo for a while, and still get games together when our old team is in town. 
+Over the past year I've been getting into golf, I'm still pretty bad but I'm having a lot of fun. I also played club water polo for a while, and still get games together when our old team is in town. 
