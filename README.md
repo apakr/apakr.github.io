@@ -27,6 +27,8 @@ latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so tha
 
 ## Usage
 
+# Do "bundle exec jekyll serve" to run the site locally.
+
 Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
 ## Contributing
