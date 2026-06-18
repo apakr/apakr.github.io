@@ -7,8 +7,9 @@
   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
   url:  'https://www.linkedin.com/in/apakr/' # Fill with your Linkedin homepage
 
-# - type: twitter
-#   icon: "fa-brands fa-x-twitter"
+- type: x
+  icon: "fa-brands fa-x-twitter"
+  url: 'https://x.com/alpak_a1'  # Fill with your X (Twitter) profile link
 
 
 # uncomment later when spam email created

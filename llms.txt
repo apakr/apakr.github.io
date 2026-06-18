@@ -1,0 +1,21 @@
+---
+permalink: /llms.txt
+---
+# {{ site.social.name }}
+
+> Personal site and blog of {{ site.social.name }}, an undergraduate at the University of Illinois Urbana-Champaign studying Statistics (minor in Computer Science) with interests in quantitative finance, machine learning, and data engineering.
+
+- Site: {{ '/' | absolute_url }}
+- GitHub: https://github.com/apakr
+- LinkedIn: https://www.linkedin.com/in/apakr
+- X: https://x.com/alpak_a1
+
+## Posts
+{% for post in site.posts %}- [{{ post.title }}]({{ post.url | absolute_url }}){% if post.description %}: {{ post.description | strip_html | strip_newlines | truncate: 200 }}{% endif %}
+{% endfor %}
+## Pages
+{% for tab in site.tabs %}- [{{ tab.title | default: tab.url }}]({{ tab.url | absolute_url }})
+{% endfor %}
+## Usage
+
+All original content (posts, images, text, and code) is © {{ 'now' | date: '%Y' }} {{ site.social.name }}, all rights reserved. No reproduction, redistribution, model training, or commercial use without prior written permission. Contact: alpak.uiuc@gmail.com.
